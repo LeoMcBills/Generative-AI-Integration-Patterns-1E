@@ -1,5 +1,5 @@
 #  Generative AI Application Integration Patterns: Integrate large language models into your applications<br>
-by Juan Bustos and Luis Lopez<br><br>
+by Juan Bustos and Luis Lopez<br>
 <img src="https://github.com/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Cover.png?raw=tru" alt="drawing" width="350"/>
 
 # Generative AI Application Integration Patterns
@@ -63,6 +63,105 @@ Code samples for metadata extraction, summarization, intent classification, ques
    ```
 
 You can also run the notebooks directly from the table below:
+
+<table>
+    <tr>
+        <th>Chapter</th>
+        <th>Colab</th>
+        <th>Kaggle</th>
+    </tr>
+    <tr>
+        <td colspan=3>
+            Chapter 5: Integration Pattern: Batch Metadata Extraction
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul><li>
+            Batch_metadata_extraction.ipynb
+            </ul></li>
+        </td>
+        <td>
+            <a href="https://kaggle.com/your-kaggle-link" target="_blank">
+                <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Kaggle" style="vertical-align:middle; width:100px; height:50px; margin-right:6px;">
+            </a>
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/your-colab-link" target="_blank">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" style="vertical-align:middle; width:100px; height:19px; margin-right:6px;">
+            </a>
+        </td>
+    </tr>
+        <tr>
+        <td colspan=3>
+            Chapter 5: Integration Pattern: Batch Metadata Extraction
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul><li>
+            Batch_metadata_extraction.ipynb
+            </ul></li>
+        </td>
+        <td>
+            <a href="https://kaggle.com/your-kaggle-link" target="_blank">
+                <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Kaggle" style="vertical-align:middle; width:100px; height:50px; margin-right:6px;">
+            </a>
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/your-colab-link" target="_blank">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" style="vertical-align:middle; width:100px; height:19px; margin-right:6px;">
+            </a>
+        </td>
+    </tr>
+        <tr>
+        <td td colspan=3>
+            Chapter 5: Integration Pattern: Batch Metadata Extraction
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul><li>
+            Batch_metadata_extraction.ipynb
+            </ul></li>
+        </td>
+        <td>
+            <a href="https://kaggle.com/your-kaggle-link" target="_blank">
+                <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Kaggle" style="vertical-align:middle; width:100px; height:50px; margin-right:6px;">
+            </a>
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/your-colab-link" target="_blank">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" style="vertical-align:middle; width:100px; height:19px; margin-right:6px;">
+            </a>
+        </td>
+    </tr>
+        <tr>
+        <td colspan=3>
+            Chapter 5: Integration Pattern: Batch Metadata Extraction
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul><li>
+            Batch_metadata_extraction.ipynb
+            </ul></li>
+        </td>
+        <td>
+            <a href="https://kaggle.com/your-kaggle-link" target="_blank">
+                <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Kaggle" style="vertical-align:middle; width:100px; height:50px; margin-right:6px;">
+            </a>
+        </td>
+        <td>
+            <a href="https://colab.research.google.com/your-colab-link" target="_blank">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" style="vertical-align:middle; width:100px; height:19px; margin-right:6px;">
+            </a>
+        </td>
+    </tr>
+</table>
+
+
+
 | Chapter | Colab | Kaggle | 
 | :-------- | :-------- | :------- |
 | | | |
