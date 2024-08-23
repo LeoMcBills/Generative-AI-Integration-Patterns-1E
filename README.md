@@ -67,8 +67,8 @@ You can also run the notebooks directly from the table below:
 <table>
     <tr>
         <th>Chapter</th>
-        <th>Colab</th>
         <th>Kaggle</th>
+        <th>Colab</th>
     </tr>
     <tr>
         <td colspan=3>
