@@ -72,7 +72,7 @@ You can also run the notebooks directly from the table below:
     </tr>
     <tr>
         <td colspan=3>
-            Chapter 5: Integration Pattern: Batch Metadata Extraction
+            <i><b>Chapter 5: Integration Pattern: Batch Metadata Extraction</b></t>
         </td>
     </tr>
     <tr>
@@ -94,13 +94,13 @@ You can also run the notebooks directly from the table below:
     </tr>
         <tr>
         <td colspan=3>
-            Chapter 5: Integration Pattern: Batch Metadata Extraction
+            <i><b>Chapter 6: Integration Pattern: Batch Summarization</b></i>
         </td>
     </tr>
     <tr>
         <td>
             <ul><li>
-            Batch_metadata_extraction.ipynb
+            Integration_pattern_batch_summarization.ipynb
             </ul></li>
         </td>
         <td>
@@ -116,13 +116,13 @@ You can also run the notebooks directly from the table below:
     </tr>
         <tr>
         <td td colspan=3>
-            Chapter 5: Integration Pattern: Batch Metadata Extraction
+            <i><b>Chapter 7: Integration Pattern: Real-Time Intent Classification</b></i>
         </td>
     </tr>
     <tr>
         <td>
             <ul><li>
-            Batch_metadata_extraction.ipynb
+            Integration_pattern_Real_time_intent_classification.ipynb
             </ul></li>
         </td>
         <td>
@@ -138,13 +138,13 @@ You can also run the notebooks directly from the table below:
     </tr>
         <tr>
         <td colspan=3>
-            Chapter 5: Integration Pattern: Batch Metadata Extraction
+            <i><b>Chapter 8: Integration Pattern: Real-Time Retrieval Augmented Generation</b></i>
         </td>
     </tr>
     <tr>
         <td>
             <ul><li>
-            Batch_metadata_extraction.ipynb
+            Integration_pattern_Real_Time_retrieval_augmented_generation.ipynb
             </ul></li>
         </td>
         <td>
@@ -161,7 +161,7 @@ You can also run the notebooks directly from the table below:
 </table>
 
 
-
+<!--
 | Chapter | Colab | Kaggle | 
 | :-------- | :-------- | :------- |
 | | | |
@@ -185,7 +185,7 @@ You can also run the notebooks directly from the table below:
 | <ul><li>Chapter 9.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 10: Embedding Responsible AI into your GenAI Applications**
 | <ul><li>Chapter 10.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | 
-
+-->
 
 ### Raise an issue 🚩
 If you see anything that doesn't run as expected, raise an issue, and we'll work on it!
