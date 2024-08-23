@@ -1,82 +1,123 @@
-# Generative-AI-Integration-Patterns-1E
+#  Generative AI Application Integration Patterns: Integrate large language models into your applications<br>
+by Juan Bustos and Luis Lopez<br>
+<img src="https://github.com/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Cover.png?raw=tru" alt="drawing" width="350"/>
 
-A comprehensive guide and implementation of Generative AI applicaiton integration patterns that utilize Large Language Models (LLMs) to solve various types of use cases.
+# Generative AI Application Integration Patterns
+**Integrate large language models into your applications**
 
-For comprehensive details on the architectural patterns mentioned below, please refer to the accompanying book [Book link](). 
+This is the code repository for [Generative AI Application Integration Patterns](), published by Packt.
+
+## About the book 📔
+Explore the transformative potential of **Generative AI** (**GenAI**) in the application development lifecycle. Through concrete examples, you will go through the process of ideation and integration, understanding the tradeoffs and the decision points when integrating GenAI.
+
+With recent advances in models like Google Gemini, Anthropic Claude, DALL-E and GPT-4o, this timely resource will help you harness these technologies through proven design patterns.
+
+We then delve into the practical applications of GenAI, identifying common use cases and applying design patterns to address real-world challenges. From summarization and metadata extraction to intent classification and question answering, each chapter offers practical examples and blueprints for leveraging GenAI across diverse domains and tasks. You will learn how to fine-tune models for specific applications, progressing from basic prompting to sophisticated strategies such as **retrieval augmented generation** (**RAG**) and chain of thought.
+
+Additionally, we provide end-to-end guidance on operationalizing models, including data prep, training, deployment, and monitoring. We also focus on responsible and ethical development techniques for transparency, auditing, and governance as crucial design patterns.
+
+## What you will learn 📖
+- Concepts of GenAI: pre-training, fine-tuning, prompt engineering, and RAG
+- Framework for integrating AI: entry points, prompt pre-processing, inference, post-processing, and presentation
+- Patterns for batch and real-time integration
+Code samples for metadata extraction, summarization, intent classification, question-answering with RAG, and more
+- Ethical use: bias mitigation, data privacy, and monitoring
+- Deployment and hosting options for GenAI models
 
 
-## Table of Contents
+## Table of Contents📑
 
-- [Introduction](#introduction)
-- [Integration Patterns](#integration-patterns)
-  - [Batch - Metadata Extraction](#batch-metadata)
-  - [Batch - Summarization](#batch-summarization)
-  - [Real Time - Intent Classification](#real-time-intent)
-  - [Real Time -  Q&A using RAG](#real-time-RAG)
-- [Getting Started](#getting-started)
-- [License](#license)
+1. Introduction to Generative AI Patterns
+2. Identifying Generative AI Use Cases
+3. Designing Patterns for Interacting with Generative AI
+4. Generative AI Batch and Real-time Integration Patterns
+5. Integration Pattern: Batch Metadata Extraction
+6. Integration Pattern: Batch Summarization
+7. Integration Pattern: Real-Time Intent Classification
+8. Integration Pattern: Real-Time Retrieval Augmented Generation
+9. Operationalizing Generative AI Integration Patterns
+10. Embedding Responsible AI into your GenAI Applications 
 
-## Introduction 📘
+### Getting started 🚀
 
-This repository delves into the integration of Large Language Models (LLMs) with various data processing tasks. It showcases different integration patterns, ranging from batch operations like metadata extraction and summarization to real-time applications such as intent classification and question-answering using retrieval-augmented generation (RAG). By leveraging the power of LLMs, this repository aims to explore innovative solutions for enhancing data processing pipelines. Whether you're interested in batch processing or real-time applications, this repository provides a comprehensive guide to integrating LLMs into your workflows.
-
-## Integration Patterns 🏗️
-
-### Batch - Metadata Extraciton
-Utilizing LLMs to create a structured format to extract entities, and subsequently analyze 10k documents.
-
-<div align="center">
-<img src="./img/batch-metadata.png" alt="Architecture (100-Foot View)" width="800" height="450"/>
-</div>
-
-<div align="center">
-  Click on image to enlarge
-</div>
-
-### Batch - Summarization
-Utilizing LLMs for summarizing client applications in the financial services industry.
-
-<div align="center">
-<img src="./img/batch-summarization.png" alt="Architecture (100-Foot View)" width="800" height="450"/>
-</div>
-
-<div align="center">
-  Click on image to enlarge
-</div>
-
-### Real Time - Intent Classification
-
-### Real Time -  Q&A using RAG
-
-## Getting Started 🚀
-
-1. **Clone the Repository**:
+1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your_username/Generative-AI-Integration-Patterns-1E.git
+   git clone https://github.com/PacktPublishing/Generative-AI-Integration-Patterns-1E
    ```
-
-2. Navigate to the directory:
+2. **Navigate to the directory**:
 
    ```bash
    cd Generative-AI-Integration-Patterns-1E
    ```
-
 3. **Set up a virtual environment**:
 
    ```bash
    python3 -m venv .venv
    source .venv/bin/activate
    ```
-
 4. **Install dependencies**:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-Follow the individual pattern READMEs for detailed setup and usage instructions.
+You can also run the notebooks directly from the table below:
+| Chapter | Colab | Kaggle | 
+| :-------- | :-------- | :------- |
+| | | |
+ **Chapter 1: Introduction to Generative AI Patterns**
+| <ul><li>Chapter 1.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ **Chapter 2: Identifying Generative AI Use Cases**
+| <ul><li>Chapter 2.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ **Chapter 3: Designing Patterns for Interacting with Generative AI**
+| <ul><li>Chapter 3.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ **Chapter 4: Generative AI Batch and Real-time Integration Patterns**
+| <ul><li>Chapter 4.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ **Chapter 5: Integration Pattern: Batch Metadata Extraction**
+| <ul><li>Batch_metadata_extraction.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |	[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() |	[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ **Chapter 6: Integration Pattern: Batch Summarization**
+| <ul><li>Integration_pattern_batch_summarization.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ **Chapter 7: Integration Pattern: Real-Time Intent Classification**
+ | <ul><li>Integration_pattern_Real_time_intent_classification.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ **Chapter 8: Integration Pattern: Real-Time Retrieval Augmented Generation**
+| <ul><li>Integration_pattern_Real_Time_retrieval_augmented_generation.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |	[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ **Chapter 9: Operationalizing Generative AI Integration Patterns**
+| <ul><li>Chapter 9.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ **Chapter 10: Embedding Responsible AI into your GenAI Applications**
+| <ul><li>Chapter 10.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() | 
 
-## Challenges and Limitations ⚠️
+<!---
+### Chat with this repository's Input-Augmented GPT-4 Chatbot
+<a href="https://chat.openai.com/g/g-qV6bon6X7-transformers-for-nlp-cv-3rd-edition-repo-helper" target="_blank"> Chat with my custom GPT4 bot for this repository</a><img alt="Support" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">.
+>   You can ask questions about this repository. You can also copy the code from the notebooks into my chat GPT and ask for explanations.
+>
+> This is a cutting-edge input-augmented Chatbot built on OpenAI for this GitHub repository. OpenAI requires a ChatGPT Plus subscription to explore it. 
+>  
+>  *Limitations:* This is an experimental chatbot. It is dedicated to this GitHub repository and does not replace the explanations provided in the book. But you can surely have some interesting educational interactions with my GPT-4 chatbot.
+-->
 
-This section discusses the potential pitfalls, challenges, and areas for improvement
+### Raise an issue 🚩
+If you see anything that doesn't run as expected, raise an issue, and we'll work on it!
+> You can [create an issue](https://github.com/PacktPublishing/Generative-AI-Integration-Patterns-1E/issues) <img alt="Support" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">, if you encounter any in the notebooks, we will be glad to provide you support.
+
+### Get my copy 📦
+> If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0DDTBDQ48/) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
+
+Join our community's [Discord](https://packt.link/genpat) space to ask questions, provide solutions to other readers, discussions with the authors and much more.
+
+## Download a free PDF <img alt="Coding" height="25" width="40" src="https://emergency.com.au/wp-content/uploads/2021/03/free.gif">
+
+If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click [here](https://packt.link/free-ebook/9781835887608) to claim your Free PDF. <img alt="free pdf" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [ColorImages](). <img alt="color images" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+
+
+## Get to Know the Authors
+**Luis Lopez** is an experienced software architect specializing in AI/ML. He has gained practical experience from top firms across heavily regulated industries like healthcare and finance, as well as big tech firms like AWS and Google. He brings a blended approach from his experience managing global partnerships, AI product development, and customer-facing roles. Luis is passionate about learning new technologies and using these to create a business value.
+[LinkedIn]()
+
+**Juan Bustos** is a seasoned technology professional specializing in artificial intelligence and machine learning. With a background in computer science, Juan has held leadership positions at major tech companies including Google, Stripe, and Amazon Web Services. His expertise spans AI services, solution architecture, and cloud computing. Juan is passionate about helping organizations leverage cutting-edge technologies to drive innovation and deliver value.
+[LinkedIn]()
