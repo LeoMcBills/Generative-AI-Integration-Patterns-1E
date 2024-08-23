@@ -67,35 +67,26 @@ You can also run the notebooks directly from the table below:
 | :-------- | :-------- | :------- |
 | | | |
  **Chapter 1: Introduction to Generative AI Patterns**
-| <ul><li>Chapter 1.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+| <ul><li>Chapter 1.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 2: Identifying Generative AI Use Cases**
-| <ul><li>Chapter 2.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+| <ul><li>Chapter 2.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 3: Designing Patterns for Interacting with Generative AI**
-| <ul><li>Chapter 3.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+| <ul><li>Chapter 3.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 4: Generative AI Batch and Real-time Integration Patterns**
-| <ul><li>Chapter 4.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+| <ul><li>Chapter 4.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 5: Integration Pattern: Batch Metadata Extraction**
-| <ul><li>Batch_metadata_extraction.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |	[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() |	[![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+| <ul><li>Batch_metadata_extraction.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 6: Integration Pattern: Batch Summarization**
-| <ul><li>Integration_pattern_batch_summarization.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+| <ul><li>Integration_pattern_batch_summarization.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 7: Integration Pattern: Real-Time Intent Classification**
- | <ul><li>Integration_pattern_Real_time_intent_classification.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+ | <ul><li>Integration_pattern_Real_time_intent_classification.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 8: Integration Pattern: Real-Time Retrieval Augmented Generation**
-| <ul><li>Integration_pattern_Real_Time_retrieval_augmented_generation.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |	[![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+| <ul><li>Integration_pattern_Real_Time_retrieval_augmented_generation.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 9: Operationalizing Generative AI Integration Patterns**
-| <ul><li>Chapter 9.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() |
+| <ul><li>Chapter 9.ipynb</li></ul> | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()| [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() |
  **Chapter 10: Embedding Responsible AI into your GenAI Applications**
-| <ul><li>Chapter 10.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | [![Gradient](https://assets.paperspace.io/img/gradient-badge.svg)]() | [![Open In SageMaker Studio Lab](https://studiolab.sagemaker.aws/studiolab.svg)]() | 
+| <ul><li>Chapter 10.ipynb</li></ul> |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() | [![Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)]() | 
 
-<!---
-### Chat with this repository's Input-Augmented GPT-4 Chatbot
-<a href="https://chat.openai.com/g/g-qV6bon6X7-transformers-for-nlp-cv-3rd-edition-repo-helper" target="_blank"> Chat with my custom GPT4 bot for this repository</a><img alt="Support" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">.
->   You can ask questions about this repository. You can also copy the code from the notebooks into my chat GPT and ask for explanations.
->
-> This is a cutting-edge input-augmented Chatbot built on OpenAI for this GitHub repository. OpenAI requires a ChatGPT Plus subscription to explore it. 
->  
->  *Limitations:* This is an experimental chatbot. It is dedicated to this GitHub repository and does not replace the explanations provided in the book. But you can surely have some interesting educational interactions with my GPT-4 chatbot.
--->
 
 ### Raise an issue 🚩
 If you see anything that doesn't run as expected, raise an issue, and we'll work on it!
