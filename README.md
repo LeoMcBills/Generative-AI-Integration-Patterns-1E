@@ -82,7 +82,7 @@ You can also run the notebooks directly from the table below:
             </ul></li>
         </td>
         <td>
-            <a href="https://kaggle.com/kernels/welcome?src=https://github/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter05/Batch_metadata_extraction.ipynb" target="_blank">
+            <a href="https://kaggle.com/kernels/welcome?src=https://github.com/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter05/Batch_metadata_extraction.ipynb" target="_blank">
                 <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Kaggle" style="vertical-align:middle; width:100px; height:50px; margin-right:6px;">
             </a>
         </td>
@@ -104,12 +104,12 @@ You can also run the notebooks directly from the table below:
             </ul></li>
         </td>
         <td>
-            <a href="https://kaggle.com/your-kaggle-link" target="_blank">
+            <a href="https://kaggle.com/kernels/welcome?src=https://github.com/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter06/Integration_pattern_batch_summarization.ipynb" target="_blank">
                 <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Kaggle" style="vertical-align:middle; width:100px; height:50px; margin-right:6px;">
             </a>
         </td>
         <td>
-            <a href="https://colab.research.google.com/your-colab-link" target="_blank">
+            <a href="https://colab.research.google.com/github/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter06/Integration_pattern_batch_summarization.ipynb" target="_blank">
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" style="vertical-align:middle; width:100px; height:19px; margin-right:6px;">
             </a>
         </td>
@@ -126,12 +126,12 @@ You can also run the notebooks directly from the table below:
             </ul></li>
         </td>
         <td>
-            <a href="https://kaggle.com/your-kaggle-link" target="_blank">
+            <a href="https://kaggle.com/kernels/welcome?src=https://github.com/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter07/Integration_pattern_Real_time_intent_classification.ipynb" target="_blank">
                 <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Kaggle" style="vertical-align:middle; width:100px; height:50px; margin-right:6px;">
             </a>
         </td>
         <td>
-            <a href="https://colab.research.google.com/your-colab-link" target="_blank">
+            <a href="https://colab.research.google.com/github/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter07/Integration_pattern_Real_time_intent_classification.ipynb" target="_blank">
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" style="vertical-align:middle; width:100px; height:19px; margin-right:6px;">
             </a>
         </td>
@@ -148,12 +148,12 @@ You can also run the notebooks directly from the table below:
             </ul></li>
         </td>
         <td>
-            <a href="https://kaggle.com/your-kaggle-link" target="_blank">
+            <a href="https://kaggle.com/kernels/welcome?src=https://github.com/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter08/Integration_pattern_Real_Time_retrieval_augmented_generation.ipynb" target="_blank">
                 <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Kaggle" style="vertical-align:middle; width:100px; height:50px; margin-right:6px;">
             </a>
         </td>
         <td>
-            <a href="https://colab.research.google.com/your-colab-link" target="_blank">
+            <a href="https://colab.research.google.com/github/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter08/Integration_pattern_Real_Time_retrieval_augmented_generation.ipynb" target="_blank">
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" style="vertical-align:middle; width:100px; height:19px; margin-right:6px;">
             </a>
         </td>
