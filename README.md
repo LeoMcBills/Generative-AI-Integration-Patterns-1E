@@ -82,12 +82,12 @@ You can also run the notebooks directly from the table below:
             </ul></li>
         </td>
         <td>
-            <a href="https://kaggle.com/your-kaggle-link" target="_blank">
+            <a href="https://kaggle.com/kernels/welcome?src=https://github/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter05/Batch_metadata_extraction.ipynb" target="_blank">
                 <img src="https://kaggle.com/static/images/open-in-kaggle.svg" alt="Kaggle" style="vertical-align:middle; width:100px; height:50px; margin-right:6px;">
             </a>
         </td>
         <td>
-            <a href="https://colab.research.google.com/your-colab-link" target="_blank">
+            <a href="https://colab.research.google.com/github/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Chapter05/Batch_metadata_extraction.ipynb" target="_blank">
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Colab" style="vertical-align:middle; width:100px; height:19px; margin-right:6px;">
             </a>
         </td>
@@ -202,7 +202,7 @@ Join our community's [Discord](https://packt.link/genpat) space to ask questions
 
 If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost. Simply click [here](https://packt.link/free-ebook/9781835887608) to claim your Free PDF. <img alt="free pdf" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [ColorImages](). <img alt="color images" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book at [ColorImages](https://packt.link/gbp/9781835887608). <img alt="color images" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 
 ## Get to Know the Authors
