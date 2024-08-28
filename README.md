@@ -1,11 +1,11 @@
 #  Generative AI Application Integration Patterns: Integrate large language models into your applications<br>
-by Juan Bustos and Luis Lopez<br><br>
+by Juan Pablo Bustos and Luis Lopez Soria<br><br>
 <img src="https://github.com/gaurgv/Generative-AI-Integration-Patterns-1E/blob/main/Cover.png?raw=tru" alt="drawing" width="350"/>
 
 # Generative AI Application Integration Patterns
 **Integrate large language models into your applications**
 
-This is the code repository for [Generative AI Application Integration Patterns](), published by Packt.
+This is the code repository for [Generative AI Application Integration Patterns](https://www.amazon.com/Generative-Application-Integration-Patterns-applications/dp/1835887600), published by Packt.
 
 ## About the book 📔
 Explore the transformative potential of **Generative AI** (**GenAI**) in the application development lifecycle. Through concrete examples, you will go through the process of ideation and integration, understanding the tradeoffs and the decision points when integrating GenAI.
@@ -192,7 +192,7 @@ If you see anything that doesn't run as expected, raise an issue, and we'll work
 > You can [create an issue](https://github.com/PacktPublishing/Generative-AI-Integration-Patterns-1E/issues) <img alt="Support" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">, if you encounter any in the notebooks, we will be glad to provide you support.
 
 ### Get my copy 📦
-> If you feel this book is for you, get your [copy](https://www.amazon.com/dp/B0DDTBDQ48/) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
+> If you feel this book is for you, get your [copy](https://www.amazon.com/Generative-Application-Integration-Patterns-applications/dp/1835887600) today! <img alt="Coding" height="15" width="35"  src="https://media.tenor.com/ex_HDD_k5P8AAAAi/habbo-habbohotel.gif">
 
 ## Know more on the Discord server <img alt="Coding" height="25" width="32"  src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif">
 
@@ -206,8 +206,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 
 ## Get to Know the Authors
-**Juan Bustos** is a seasoned technology professional specializing in artificial intelligence and machine learning. With a background in computer science, Juan has held leadership positions at major tech companies including Google, Stripe, and Amazon Web Services. His expertise spans AI services, solution architecture, and cloud computing. Juan is passionate about helping organizations leverage cutting-edge technologies to drive innovation and deliver value.
+**Juan Pablo Bustos** is a seasoned technology professional specializing in artificial intelligence and machine learning. With a background in computer science, Juan has held leadership positions at major tech companies including Google, Stripe, and Amazon Web Services. His expertise spans AI services, solution architecture, and cloud computing. Juan is passionate about helping organizations leverage cutting-edge technologies to drive innovation and deliver value.
 [LinkedIn](https://www.linkedin.com/in/bustosjuan/)
 
-**Luis Lopez** is an experienced software architect specializing in AI/ML. He has gained practical experience from top firms across heavily regulated industries like healthcare and finance, as well as big tech firms like AWS and Google. He brings a blended approach from his experience managing global partnerships, AI product development, and customer-facing roles. Luis is passionate about learning new technologies and using these to create a business value.
+**Luis Lopez Soria** is an experienced software architect specializing in AI/ML. He has gained practical experience from top firms across heavily regulated industries like healthcare and finance, as well as big tech firms like AWS and Google. He brings a blended approach from his experience managing global partnerships, AI product development, and customer-facing roles. Luis is passionate about learning new technologies and using these to create a business value.
 [LinkedIn](https://www.linkedin.com/in/luseloso/)
