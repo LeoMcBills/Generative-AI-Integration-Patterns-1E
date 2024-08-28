@@ -207,7 +207,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ## Get to Know the Authors
 **Juan Bustos** is a seasoned technology professional specializing in artificial intelligence and machine learning. With a background in computer science, Juan has held leadership positions at major tech companies including Google, Stripe, and Amazon Web Services. His expertise spans AI services, solution architecture, and cloud computing. Juan is passionate about helping organizations leverage cutting-edge technologies to drive innovation and deliver value.
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/bustosjuan/)
 
 **Luis Lopez** is an experienced software architect specializing in AI/ML. He has gained practical experience from top firms across heavily regulated industries like healthcare and finance, as well as big tech firms like AWS and Google. He brings a blended approach from his experience managing global partnerships, AI product development, and customer-facing roles. Luis is passionate about learning new technologies and using these to create a business value.
-[LinkedIn]()
+[LinkedIn](https://www.linkedin.com/in/luseloso/)
