@@ -50,17 +50,6 @@ Code samples for metadata extraction, summarization, intent classification, ques
    ```bash
    cd Generative-AI-Integration-Patterns-1E
    ```
-3. **Set up a virtual environment**:
-
-   ```bash
-   python3 -m venv .venv
-   source .venv/bin/activate
-   ```
-4. **Install dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 You can also run the notebooks directly from the table below:
 
