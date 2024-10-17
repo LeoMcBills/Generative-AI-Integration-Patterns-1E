@@ -1,4 +1,4 @@
-#  Generative AI Application Integration Patterns: Integrate large language models into your applications<br>
+# Generative AI Application Integration Patterns: Integrate large language models into your applications<br>
 by Juan Pablo Bustos and Luis Lopez Soria<br><br>
 <img src="https://github.com/PacktPublishing/Generative-AI-Integration-Patterns-1E/blob/main/Cover.png?raw=tru" alt="drawing" width="350"/>
 
